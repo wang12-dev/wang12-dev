@@ -2,5 +2,6 @@
 
 Notes on learning, research, and ongoing experiments.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wang12-dev&show_icons=true&hide=stars,prs)
-
+- Experiments: async · agents · data pipelines
+- Notes: learning · thinking · reading
+- Builds: small tools & prototypes
