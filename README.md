@@ -2,6 +2,5 @@
 
 Notes on learning, research, and ongoing experiments.
 
-![GitHub Streak](https://streak-stats.demolab.com?user=wang12-dev&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wang12-dev&show_icons=true&hide=stars,prs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wang12-dev&layout=compact)
